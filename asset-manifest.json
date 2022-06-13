@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-react-project7-tenzies/static/css/main.8f28dafb.css",
+    "main.js": "/deploy-react-project7-tenzies/static/js/main.1f18bec4.js",
+    "index.html": "/deploy-react-project7-tenzies/index.html",
+    "main.8f28dafb.css.map": "/deploy-react-project7-tenzies/static/css/main.8f28dafb.css.map",
+    "main.1f18bec4.js.map": "/deploy-react-project7-tenzies/static/js/main.1f18bec4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f28dafb.css",
+    "static/js/main.1f18bec4.js"
+  ]
+}
