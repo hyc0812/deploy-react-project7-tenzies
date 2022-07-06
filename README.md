@@ -1,6 +1,6 @@
 # Tenzies
 
-> This is my React app Demo and [welcome to play](https://hyc0812.github.io/deploy-react-simple-notes/)
+> This is my React app Demo and [welcome to play](https://hyc0812.github.io/deploy-react-project7-tenzies/)
 > GitRepo for this game
 
 - How To Use the repo?
