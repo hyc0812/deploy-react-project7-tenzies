@@ -11,4 +11,4 @@ npm install
 npm start
 ```
 
-<img src="https://github.com/hyc0812/deploy-react-simple-notes/blob/master/screenshott/screenshot-01.png" width="600">
+<img src="https://github.com/hyc0812/deploy-react-project7-tenzies/blob/master/screenshott/screenshot-01.png" width="600">
